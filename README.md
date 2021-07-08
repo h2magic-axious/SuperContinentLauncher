@@ -1,3 +1,3 @@
 # SuperContinentLauncher
 
-![](https://github.com/soleperson/SuperContinentLauncher/blob/master/images/overview1.png?raw=true)
+[![RLu4mt.png](https://z3.ax1x.com/2021/07/08/RLu4mt.png)](https://imgtu.com/i/RLu4mt)
