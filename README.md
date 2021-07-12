@@ -1,3 +1,3 @@
 # SuperContinentLauncher
 
-![](https://imgtu.com/i/RLu4mt)
+![](images/overview1.png)
